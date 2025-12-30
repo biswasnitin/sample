@@ -1,4 +1,4 @@
-class :MembershipSerializer < Api::V2::Base
+class MembershipSerializer < Api::V2::Base
   cached
 
   attributes :id,
